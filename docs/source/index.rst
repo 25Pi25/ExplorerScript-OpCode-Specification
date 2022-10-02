@@ -1,22 +1,15 @@
-Welcome to Lumache's documentation!
-===================================
+ExplorerScript language specification
+=====================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This document contains the OpCode specification for
+ExplorerScript. ExplorerScript is a scripting language
+that can be converted into the SSB script files of
+Pokémon Mystery Dungeon Explorers of Sky. The language
+is more flexible though, it can in it's core also be used
+for other games or purposes.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+..  contents:: Index
+    :depth: 3
 
-.. note::
-
-   This project is under active development.
-
-Contents
+back (0-18)
 --------
-
-.. toctree::
-
-   usage
-   api
